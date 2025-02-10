@@ -1,0 +1,1 @@
+//document.body.innerHTML += '<h1>AHOJ</h1> Ahoj, ja jsem "JavaScript"' + '   ';
